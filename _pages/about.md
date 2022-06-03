@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I am now an undergraduate student in the School of Electronics Engineering and Computer Science (EECS), Peking University
-(2019-Present). I am a research Intern at Software Engineering Institute advised by Prof. [Xin Jin](https://xinjin.github.io/). 
+(2019-Present). I am a research Intern at Software Engineering Institute advised by
+Prof. [Xin Jin](https://xinjin.github.io/)（2020-Present）. 
 My research interests are Systems for Machine Learning and Big Data.
 
 Publications
