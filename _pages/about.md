@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I am now an undergraduate student in the School of Electronics Engineering and Computer Science (EECS), Peking University
-(2019-Present). 
+(2019-Present). I am a research Intern at Software Engineering Institute advised by Prof. [Xin Jin](https://xinjin.github.io/). 
+My research interests are Systems for Machine Learning and Big Data.
 
 Publications
 ======
@@ -17,14 +18,12 @@ Publications
 
 Teaching
 ======
-* [2021 Fall] Teaching Assistant, Introduction to Computer System.
+* [2021 Fall] **Teaching Assistant**, Introduction to Computer System at PKU.
 
-### Experiences
-======
-Internship
-------
-* [2021.06 - 2021.09] ByteDance Inc. , advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
-* [2021.10 - Present] MOQI. , advised by [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
+# Experiences
+## Internship
+* [2021.06 - 2021.09] **ByteDance Inc.**, Advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
+* [2021.10 - Present] **MOQI**, Advised by [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
