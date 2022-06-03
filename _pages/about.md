@@ -23,7 +23,7 @@ Teaching
 
 Experiences
 ======
-**Internship**
+<font size=3>**Internship**</font>
 * [2021.06 - 2021.09] **ByteDance Inc.**, Advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
 * [2021.10 - Present] **MOQI**, Advised by [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
 
