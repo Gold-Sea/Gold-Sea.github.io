@@ -1,20 +1,22 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am now an undergraduate student in the **School of Electronics Engineering and Computer Science (EECS), Peking University**
+(2019-Present). I am a research Intern at **Software Engineering Institute** advised by
+Prof. [Xin Jin](https://xinjin.github.io/) (2020-Present). 
+My research interests focus on Systems for Machine Learning and Big Data.
 
-I am now an undergraduate student in the School of Electronics Engineering and Computer Science (EECS), Peking University
-(2019-Present). I am a research Intern at Software Engineering Institute advised by Prof. [Xin Jin](https://xinjin.github.io/). 
-My research interests are Systems for Machine Learning and Big Data.
+**Email**: zzlcs (at) pku (dot) edu (dot) cn
 
 Publications
 ======
---WIP--
+* --WIP--
 
 Teaching
 ======
@@ -22,7 +24,7 @@ Teaching
 
 Experiences
 ======
-## Internship
+**Internship**
 * [2021.06 - 2021.09] **ByteDance Inc.**, Advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
 * [2021.10 - Present] **MOQI**, Advised by [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
 
