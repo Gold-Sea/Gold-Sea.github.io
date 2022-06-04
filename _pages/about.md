@@ -17,7 +17,7 @@ My research interests focus on Systems for Machine Learning and Big Data.
 
 Publications
 ======
-  --WIP--
+* --WIP--
 
 Teaching
 ======
