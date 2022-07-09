@@ -16,7 +16,6 @@ My research interests focus on Systems for Machine Learning and Big Data.
 
 Publications
 ======
-</h4>
 <div class="media">
 			<div class="media-body">
 				<p class="media-heading">
@@ -25,13 +24,11 @@ Publications
 					<!-- <a href="" target="_blank"> <i class="fa fa-github"></i></a> -->
 					<br/>Dedong Xie, Zhen Jia, <strong>Zili Zhang</strong>, Xin Jin<br/>
 					<em>ACM Asia-Pacific Workshop on Systems (<strong><a href="https://ap-sys.org/">APSys 2022</a></strong>)</em>, online, August 23-24, 2022.<br/>
-          <strong>[<a href="https://zilizhang.site//images/point.jpg">PDF</a>] [<a href="https://zilizhang.site//images/point.jpg">Slides</a>]</strong>
+          [<strong><a href="https://zilizhang.site//images/point.jpg">PDF</a></strong>] [<strong><a href="https://zilizhang.site//images/point.jpg">Slides</a>]</strong>
 					<!-- Acceptance rate: 357/1736=20.6% -->
 				</p >
 			</div>
 		</div>
-
-</h4>
 
 Teaching
 ======
