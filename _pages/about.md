@@ -15,7 +15,7 @@ My research interests focus on Systems for Machine Learning and Big Data.
 **Email**: zzlcs (at) pku (dot) edu (dot) cn
 
 <h3>
-<strong><font size="4.9">Publications</font></strong>
+<strong><font size="5">Publications</font></strong>
 </h3>
 <div class="media">
 	<div class="media-body">
