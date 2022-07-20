@@ -38,9 +38,8 @@ My research interests focus on Systems for Machine Learning and Big Data.
 * [2021 Fall] **Teaching Assistant**, Introduction to Computer System at PKU.
 
 <h3>
-<strong><font size="5">Experiences</font></strong>
+<strong><font size="5">Intership</font></strong>
 </h3>
-<strong><font size="4">Intership</font></strong><br/>
 * [2021.06 - 2021.09] **ByteDance Inc.**, Advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
 * [2021.10 - Present] **MOQI**, Advised by [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
 
