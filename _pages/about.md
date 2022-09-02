@@ -17,7 +17,7 @@ My research interests focus on Systems for Machine Learning and Big Data.
 <h3>
 <strong><font size="5">Publications</font></strong>
 </h3>
-<div class="media">
+<!-- <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
 			<strong>Fast, Approximate Vector Queries on Very Large Unstructured Datasets</strong>
@@ -29,7 +29,7 @@ My research interests focus on Systems for Machine Learning and Big Data.
 			<!-- Acceptance rate: 357/1736=20.6% -->
 		</p >
 	</div>
-</div>
+</div> -->
 
 <div class="media">
 	<div class="media-body">
