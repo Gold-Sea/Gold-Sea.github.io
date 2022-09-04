@@ -20,12 +20,22 @@ My research interests focus on Systems for Machine Learning and Big Data.
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
+			<strong>Fast, Approximate Vector Queries on Very Large Unstructured Datasets</strong>
+			<br/><strong>Zili Zhang</strong>, Chao Jin, Linpeng Tang, Xuanzhe Liu, Xin Jin<br/>
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi23">NSDI 2023</a></strong>)</em>, Boston, April 17–19, 2023. (To appear)<br/>
+	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
 			<strong>Optimizing Half Precision Winograd Convolution on ARM Many-Core Processors</strong>
 			<!-- &nbsp;&nbsp;|&nbsp;&nbsp;<a href=" " target="_blank"><i class="fa fa-file-pdf-o" style="color:red"></i></a>&nbsp; -->
 			<!-- <a href="" target="_blank"> <i class="fa fa-github"></i></a> -->
 			<br/>Dedong Xie, Zhen Jia, <strong>Zili Zhang</strong>, Xin Jin<br/>
 			<em>ACM Asia-Pacific Workshop on Systems (<strong><a href="https://ap-sys.org/">APSys 2022</a></strong>)</em>, online, August 23-24, 2022.<br/>
-	[<strong><a href="https://zilizhang.site//images/point.jpg">PDF</a></strong>] [<strong><a href="https://zilizhang.site//images/point.jpg">Slides</a></strong>]
+	[<strong><a href="https://zilizhang.site//files/HAWC.pdf">PDF</a></strong>] [<strong><a href="https://zilizhang.site//files/HAWC_slides.pdf">Slides</a></strong>]
 			<!-- Acceptance rate: 357/1736=20.6% -->
 		</p >
 	</div>
