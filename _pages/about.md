@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now an undergraduate student in the **School of Electronics Engineering and Computer Science (EECS), Peking University**
+I am now a senior undergraduate student in the **School of Electronics Engineering and Computer Science (EECS), Peking University**
 (2019-Present). I am a research Intern at **Software Engineering Institute** advised by
 Prof. [Xin Jin](https://xinjin.github.io/) (2020-Present). 
 My research interests focus on Big Data Systems and Cloud Computing.
