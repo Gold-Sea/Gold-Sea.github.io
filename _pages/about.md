@@ -45,6 +45,7 @@ My research interests focus on Big Data Systems and Cloud Computing.
 <h3>
 <strong><font size="5">Teaching</font></strong>
 </h3>
+* [2022 Fall] **Teaching Assistant**, Introduction to Computer System (Turing Class) at PKU.
 * [2021 Fall] **Teaching Assistant**, Introduction to Computer System at PKU.
 
 <h3>
