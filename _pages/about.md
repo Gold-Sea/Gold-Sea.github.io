@@ -22,8 +22,8 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 		<p class="media-heading">
 			<strong>Fast, Approximate Vector Queries on Very Large Unstructured Datasets</strong>
 			<br/><strong>Zili Zhang</strong>, Chao Jin, Linpeng Tang, Xuanzhe Liu, Xin Jin<br/>
-			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi23">NSDI 2023</a></strong>)</em>, Boston, April 17–19, 2023. (To appear)<br/>
-	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi23">NSDI 2023</a></strong>)</em>, Boston, April 17–19, 2023.<br/>
+	[<strong><a href="https://zilizhang.site//files/nsdi23-zhang-zili.pdf">PDF</a></strong>] [<strong><a href="https://zilizhang.site//files/nsdi23-Auncel.pdf">Slides</a></strong>]
 		</p >
 	</div>
 </div>
@@ -32,7 +32,17 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 		<p class="media-heading">
 			<strong>Transparent GPU Sharing in Container Clouds for Deep Learning Workloads</strong>
 			<br/>Bingyang Wu, <strong>Zili Zhang</strong>, Zhihao Bai, Xuanzhe Liu, Xin Jin<br/>
-			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi23">NSDI 2023</a></strong>)</em>, Boston, April 17–19, 2023. (To appear)<br/>
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi23">NSDI 2023</a></strong>)</em>, Boston, April 17–19, 2023.<br/>
+	[<strong><a href="https://zilizhang.site//files/nsdi23-wu.pdf">PDF</a></strong>] [<strong><a href="https://zilizhang.site//files/NSDI23-TGS-wu.pdf">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>Rise of Distributed Deep Learning Training in the Big Model Era: From A Software Engineering Perspective</strong>
+			<br/>Xuanzhe Liu , Diandian Gu, Zhenpeng Chen, Jinfeng Wen, <strong>Zili Zhang</strong>, Yun Ma, Haoyu Wang, Xin Jin<br/>
+			<em>ACM Transactions on Software Engineering and Methodology (<strong><a href="https://dl.acm.org/journal/tosem">TOSEM 2023</a></strong>)</em>, 2023.<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
@@ -61,7 +71,7 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 <h3>
 <strong><font size="5">Intership</font></strong>
 </h3>
-* [2021.10 - 2023.02] **MOQI**, Advised by [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
+* [2021.10 - 2023.02] **MOQI**, Advised by [Linpeng Tang](https://chtlp.github.io/) and [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
 * [2021.06 - 2021.09] **ByteDance Inc.**, Advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
