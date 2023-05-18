@@ -20,9 +20,10 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
-			<strong>Ditto: Efficient Serverless Analytics with Elastic Parallelism</strong>
-			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xingyu Xiang, Songyun Zou, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
-			<em>ACM Special Interest Group on Data Communication (<strong><a href="https://conferences.sigcomm.org/sigcomm/2023/">SIGCOMM 2023</a></strong>)</em>, New York City, September 10-14, 2023.<br/>
+			<strong>Fast Distributed Inference Serving for Large Language Models</strong>
+			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
+			(<sup>*</sup> Equal contribution)<br/>
+			<em>In Preprint</em>.<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
@@ -30,10 +31,9 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
-			<strong>Fast Distributed Inference Serving for Large Language Models</strong>
-			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
-			(<sup>*</sup> Equal contribution)<br/>
-			<em>In Preprint</em>.<br/>
+			<strong>Ditto: Efficient Serverless Analytics with Elastic Parallelism</strong>
+			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xingyu Xiang, Songyun Zou, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
+			<em>ACM Special Interest Group on Data Communication (<strong><a href="https://conferences.sigcomm.org/sigcomm/2023/">SIGCOMM 2023</a></strong>)</em>, New York City, September 10-14, 2023.<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
