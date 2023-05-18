@@ -33,7 +33,7 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 			<strong>Fast Distributed Inference Serving for Large Language Models</strong>
 			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
 			(<sup>*</sup> Equal contribution)<br/>
-			<em>In Preprint.<br/>
+			<em>In Preprint</em>.<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
