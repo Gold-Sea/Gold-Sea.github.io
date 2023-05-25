@@ -15,7 +15,7 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 **Email**: zzlcs (at) pku (dot) edu (dot) cn
 
 <h3>
-<strong><font size="5">Publications</font></strong>
+<strong><font size="5">Selected Publications</font></strong>
 </h3>
 <div class="media">
 	<div class="media-body">
@@ -68,7 +68,7 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 		</p >
 	</div>
 </div>
-<div class="media">
+<!-- <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
 			<strong>Optimizing Half Precision Winograd Convolution on ARM Many-Core Processors</strong>
@@ -80,7 +80,7 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 			<!-- Acceptance rate: 357/1736=20.6% -->
 		</p >
 	</div>
-</div>
+</div> -->
 
 
 <h3>
