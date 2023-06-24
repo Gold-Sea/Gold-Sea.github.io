@@ -79,7 +79,7 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 <h3>
 <strong><font size="5">Intership</font></strong>
 </h3>
-* [2023.06 - Present] **Alibaba**, Advised by [Linpeng Tang](https://chtlp.github.io/), Researcher of Serverless Computing.
+* [2023.06 - Present] **Alibaba**, Researcher of Serverless Computing.
 * [2021.10 - 2023.02] **MOQI**, Advised by [Linpeng Tang](https://chtlp.github.io/) and [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
 * [2021.06 - 2021.09] **ByteDance Inc.**, Advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
 
