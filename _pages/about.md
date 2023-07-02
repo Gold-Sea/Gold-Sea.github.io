@@ -83,6 +83,14 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 * [2021.10 - 2023.02] **MOQI**, Advised by [Linpeng Tang](https://chtlp.github.io/) and [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
 * [2021.06 - 2021.09] **ByteDance Inc.**, Advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
 
+<h3>
+<strong><font size="5">Interests</font></strong>
+</h3>
+<!-- I have a diverse range of interests that contribute to my personal growth and enrich my life. -->
+* **Amateur runner**, Here is my ITRA [profile](https://www.itra.run/RunnerSpace/ZHANG.Zili/4938114).
+* **Outdoor traveling, Mountain climbing, and Camping**, I believe that only by immersing myself in nature can I find inner peace.
+* **Video game enthusiast**, I love playing CSGO, Minecraft, RA2 and some VR games.
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
