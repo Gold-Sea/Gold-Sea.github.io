@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a senior undergraduate student in the **School of Electronics Engineering and Computer Science (EECS), Peking University**
-(2019-Present). I am a research Intern at **Software Engineering Institute** advised by
-Prof. [Xin Jin](https://xinjin.github.io/) (2020-Present). 
-My research interests focus on Machine Learning Systems and Cloud Computing.
+I am now a first-year Ph.D. student majoring in Computer Science at [**Computer Systems Research Group**](https://github.com/pkusys), **Peking University** (2023-Present). I am advised by Prof. [Xin Jin](https://xinjin.github.io/). My research interests focus on Machine Learning Systems and Cloud Computing.
+
+I received my B.S. degree from the **School of Electronics Engineering and Computer Science (EECS), Peking University**
+(2019-2023). I used to be a research Intern at **Software Engineering Institute** advised by
+Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023). 
 
 **Email**: zzlcs (at) pku (dot) edu (dot) cn
 
@@ -73,7 +74,7 @@ My research interests focus on Machine Learning Systems and Cloud Computing.
 <h3>
 <strong><font size="5">Teaching</font></strong>
 </h3>
-* [2022 Fall] **Teaching Assistant**, Introduction to Computer System (Turing Class) at PKU.
+* [2022 Fall] **Teaching Assistant**, Introduction to Computer System (Honor Track) at PKU.
 * [2021 Fall] **Teaching Assistant**, Introduction to Computer System at PKU.
 
 <h3>
