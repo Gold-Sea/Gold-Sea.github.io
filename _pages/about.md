@@ -92,7 +92,7 @@ My Chinese name: 章梓立
 <strong><font size="5">Interests</font></strong>
 </h3>
 <!-- I have a diverse range of interests that contribute to my personal growth and enrich my life. -->
-* **Amateur runner**, Here is my ITRA [profile](https://www.itra.run/RunnerSpace/ZHANG.Zili/4938114).
+* **Amateur runner**, Here are my ITRA [profile](https://www.itra.run/RunnerSpace/ZHANG.Zili/4938114) and [Running Page](https://zilizhang.site/running_page/).
 * **Outdoor traveling, Mountain climbing, and Camping**, I believe that only by immersing myself in nature can I find inner peace.
 * **Video game enthusiast**, I love playing CSGO, Minecraft, RA2 and some VR games.
 

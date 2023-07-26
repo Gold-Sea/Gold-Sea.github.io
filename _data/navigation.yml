@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /files/zzl-cv.pdf
+
+  - title: "Running Page"
+    url: /running_page/
     
   # - title: "Guide"
   #   url: /markdown/
