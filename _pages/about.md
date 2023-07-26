@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a first-year Ph.D. student majoring in Computer Science at [**Computer Systems Research Group**](https://github.com/pkusys), **Peking University** (2023-Present). I am advised by Prof. [Xin Jin](https://xinjin.github.io/). My research interests focus on Machine Learning Systems and Cloud Computing.
+I am now a first-year Ph.D. student majoring in Computer Science at [**Computer Systems Research Group**](https://github.com/pkusys), **Peking University** (2023-Present). I am advised by Prof. [Xin Jin](https://xinjin.github.io/). I am currently a research assistant
+at **Key Lab of High Confidence Software Technologies(PKU)** and a research intern at **Alibaba Group-Cloud Intelligence Group**.
+My research interests focus on Machine Learning Systems and Cloud Computing.
 
-I received my B.S. degree from the **School of Electronics Engineering and Computer Science (EECS), Peking University**
-(2019-2023). I used to be a research Intern at **Software Engineering Institute** advised by
+I received my B.E. from the **School of Electronics Engineering and Computer Science (EECS), Peking University**
+(2019-2023). I used to be a research intern at **Software Engineering Institute** advised by
 Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.liuxuanzhe.com/) (2020-2023). 
 
 **Email**: zzlcs (at) pku (dot) edu (dot) cn
