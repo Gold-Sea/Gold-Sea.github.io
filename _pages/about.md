@@ -82,7 +82,7 @@ My Chinese name: 章梓立
 * [2021 Fall] **Teaching Assistant**, Introduction to Computer System at PKU.
 
 <h3>
-<strong><font size="5">Intership</font></strong>
+<strong><font size="5">Internship</font></strong>
 </h3>
 * [2023.06 - Present] **Alibaba**, Researcher of Serverless Computing.
 * [2021.10 - 2023.02] **MOQI**, Advised by [Linpeng Tang](https://chtlp.github.io/) and [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
