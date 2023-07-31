@@ -12,7 +12,7 @@ at **Key Lab of High Confidence Software Technologies(PKU)** and a research inte
 My research interests focus on Machine Learning System and Cloud Computing.
 
 I received my B.E. from the **School of Electronics Engineering and Computer Science (EECS), Peking University**
-(2019-2023). I used to be a research intern at **Software Engineering Institute** advised by
+(2019-2023). I used to be a research assistant at **Software Engineering Institute** advised by
 Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.liuxuanzhe.com/) (2020-2023).
 
 My Chinese name: 章梓立
