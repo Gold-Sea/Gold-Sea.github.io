@@ -29,6 +29,26 @@ My Chinese name: 章梓立
 			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
 			(<sup>*</sup> Equal contribution)<br/>
 			<em>In Preprint</em>.<br/>
+	[<strong><a href="https://arxiv.org/abs/2305.05920">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>Jolteon: Unleashing the Promise of Serverless for Serverless Workflows</strong>
+			<br/><strong>Zili Zhang</strong>, Chao Jin, Xin Jin<br/>
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024 (To appear).<br/>
+	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining</strong>
+			<br/><strong>Zili Zhang</strong>, Fangyue Liu, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024 (To appear).<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
