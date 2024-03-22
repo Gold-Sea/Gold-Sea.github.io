@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am now a first-year Ph.D. student majoring in Computer Science at [**Computer Systems Research Group**](https://github.com/pkusys), **Peking University** (2023-Present). I am advised by Prof. [Xin Jin](https://xinjin.github.io/).
-My research interests focus on Machine Learning System and Cloud Computing.
+My research interests focus on Machine Learning (LLM) System, Vector Database, and Cloud Computing, with a keen interest in their application to enhance AI technologies in unison. 
 
 I received my B.E. from the **School of Electronics Engineering and Computer Science (EECS), Peking University**
 (2019-2023). I used to be a research assistant at **Software Engineering Institute** advised by
@@ -19,7 +19,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 **Email**: zzlcs (at) pku (dot) edu (dot) cn
 
 <h3>
-<strong><font size="5">Selected Publications</font></strong>
+<strong><font size="5">Recent Publications</font></strong>
 </h3>
 <div class="media">
 	<div class="media-body">
@@ -29,6 +29,16 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 			(<sup>*</sup> Equal contribution)<br/>
 			<em>In Preprint</em>.<br/>
 	[<strong><a href="https://arxiv.org/abs/2305.05920">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving</strong>
+			<br/>Bingyang Wu, Ruidong Zhu, <strong>Zili Zhang</strong>, Peng Sun, Xuanzhe Liu, Xin Jin<br/>
+			<em>USENIX Symposium on Operating Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/osdi24">OSDI 2024</a></strong>)</em>, Santa Clara, July 10–12, 2024 (To appear).<br/>
+	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
 </div>

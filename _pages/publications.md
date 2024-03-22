@@ -19,6 +19,16 @@ author_profile: true
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
+			<strong>dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving</strong>
+			<br/>Bingyang Wu, Ruidong Zhu, <strong>Zili Zhang</strong>, Peng Sun, Xuanzhe Liu, Xin Jin<br/>
+			<em>USENIX Symposium on Operating Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/osdi24">OSDI 2024</a></strong>)</em>, Santa Clara, July 10–12, 2024 (To appear).<br/>
+	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
 			<strong>Jolteon: Unleashing the Promise of Serverless for Serverless Workflows</strong>
 			<br/><strong>Zili Zhang</strong>, Chao Jin, Xin Jin<br/>
 			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024 (To appear).<br/>
