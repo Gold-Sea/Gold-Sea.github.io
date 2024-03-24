@@ -107,6 +107,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 <h3>
 <strong><font size="5">Teaching</font></strong>
 </h3>
+* [2024 Spring] **Teaching Assistant**, Operating System (Honor Track) at PKU.
 * [2022 Fall] **Teaching Assistant**, Introduction to Computer System (Honor Track) at PKU.
 * [2021 Fall] **Teaching Assistant**, Introduction to Computer System at PKU.
 
