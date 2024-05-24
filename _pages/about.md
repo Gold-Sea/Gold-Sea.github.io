@@ -47,7 +47,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 		<p class="media-heading">
 			<strong>Jolteon: Unleashing the Promise of Serverless for Serverless Workflows</strong>
 			<br/><strong>Zili Zhang</strong>, Chao Jin, Xin Jin<br/>
-			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024 (To appear).<br/>
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024.<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
@@ -57,7 +57,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 		<p class="media-heading">
 			<strong>Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining</strong>
 			<br/><strong>Zili Zhang</strong>, Fangyue Liu, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
-			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024 (To appear).<br/>
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024.<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
