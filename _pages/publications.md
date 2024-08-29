@@ -4,7 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
+			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
+			<em>In Preprint</em>.<br/>
+	[<strong><a href="https://arxiv.org/abs/2404.12457">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">

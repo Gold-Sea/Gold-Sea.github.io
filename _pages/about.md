@@ -21,6 +21,26 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 <h3>
 <strong><font size="5">Recent Publications</font></strong>
 </h3>
+<!-- <div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models</strong>
+			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Ranchen Ming, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Xin Jin<br/>
+			<em>In Preprint</em>.<br/>
+	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div> -->
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
+			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
+			<em>In Preprint</em>.<br/>
+	[<strong><a href="https://arxiv.org/abs/2404.12457">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
@@ -114,7 +134,8 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 <h3>
 <strong><font size="5">Internship</font></strong>
 </h3>
-* [2023.06 - Present] **Alibaba**, Researcher of Serverless Computing.
+* [2024.04 - Present] **StepFun**, Researcher of LLM Training.
+* [2023.06 - 2024.04] **Alibaba**, Researcher of Serverless Computing.
 * [2021.10 - 2023.02] **MOQI**, Advised by [Linpeng Tang](https://chtlp.github.io/) and [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
 * [2021.06 - 2021.09] **ByteDance Inc.**, Advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
 
