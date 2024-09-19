@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a first-year Ph.D. student majoring in Computer Science at [**Computer Systems Research Group**](https://github.com/pkusys), **Peking University** (2023-Present). I am advised by Prof. [Xin Jin](https://xinjin.github.io/).
+I am now a second-year Ph.D. student majoring in Computer Science at [**Computer Systems Research Group**](https://github.com/pkusys), **Peking University** (2023-Present). I am advised by Prof. [Xin Jin](https://xinjin.github.io/).
 My research interests focus on Machine Learning (LLM) System, Vector Database, and Cloud Computing, with a keen interest in their application to enhance AI technologies in unison. 
 
 I received my B.E. from the **School of Electronics Engineering and Computer Science (EECS), Peking University**
@@ -145,7 +145,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 <!-- I have a diverse range of interests that contribute to my personal growth and enrich my life. -->
 * **Amateur runner**, Here are my ITRA [profile](https://www.itra.run/RunnerSpace/ZHANG.Zili/4938114) and [Running Page](https://zilizhang.site/running_page/).
 * **Outdoor traveling, Mountain climbing, and Camping**, I believe that only by immersing myself in nature can I find inner peace.
-* **Video game enthusiast**, I love playing CSGO, Minecraft, RA2 and some VR games.
+* **Video games**, I enjoy video games for their immersive storytelling.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
