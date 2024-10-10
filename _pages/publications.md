@@ -7,6 +7,26 @@ author_profile: true
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
+			<strong>DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models</strong>
+			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Ranchen Ming, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Xin Jin<br/>
+			<em>In Preprint</em>.<br/>
+	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>RLHFuse: Efficient RLHF Training for Large Language Models with Inter- and Intra-Stage Fusion</strong>
+			<br/>Yinmin Zhong, <strong>Zili Zhang</strong>, Bingyang Wu, Shengyu Liu, Yukun Chen, Changyi Wan, Hanpeng Hu, Lei Xia, Ranchen Ming, Yibo Zhu, Xin Jin<br/>
+			<em>In Preprint</em>.<br/>
+	[<strong><a href="https://www.arxiv.org/pdf/2409.13221">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
 			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
 			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
 			<em>In Preprint</em>.<br/>

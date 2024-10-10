@@ -21,7 +21,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 <h3>
 <strong><font size="5">Recent Publications</font></strong>
 </h3>
-<!-- <div class="media">
+<div class="media">
 	<div class="media-body">
 		<p class="media-heading">
 			<strong>DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models</strong>
@@ -30,7 +30,17 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
-</div> -->
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>RLHFuse: Efficient RLHF Training for Large Language Models with Inter- and Intra-Stage Fusion</strong>
+			<br/>Yinmin Zhong, <strong>Zili Zhang</strong>, Bingyang Wu, Shengyu Liu, Yukun Chen, Changyi Wan, Hanpeng Hu, Lei Xia, Ranchen Ming, Yibo Zhu, Xin Jin<br/>
+			<em>In Preprint</em>.<br/>
+	[<strong><a href="https://www.arxiv.org/pdf/2409.13221">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
