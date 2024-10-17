@@ -19,7 +19,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 **Email**: zzlcs (at) pku (dot) edu (dot) cn
 
 <h3>
-<strong><font size="5">Recent Publications</font></strong>
+<strong><font size="5">Recent Publications</font></strong><font size="3">  (Since 2023)</font>
 </h3>
 <div class="media">
 	<div class="media-body">
