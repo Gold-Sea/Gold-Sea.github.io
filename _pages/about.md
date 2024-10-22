@@ -133,6 +133,10 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 	</div>
 </div>
 
+<h3>
+<strong><font size="5">Service</font></strong>
+</h3>
+* [2025] Eurosys (Shadow PC)
 
 <h3>
 <strong><font size="5">Teaching</font></strong>
