@@ -90,7 +90,7 @@ author_profile: true
 			<strong>Ditto: Efficient Serverless Analytics with Elastic Parallelism</strong>
 			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xingyu Xiang, Songyun Zou, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
 			<em>ACM Special Interest Group on Data Communication (<strong><a href="https://conferences.sigcomm.org/sigcomm/2023/">SIGCOMM 2023</a></strong>)</em>, New York City, September 10-14, 2023.<br/>
-	[<strong><a href="https://dl.acm.org/doi/abs/10.1145/3575693.3575751">PDF</a></strong>] [<strong><a href="https://zilizhang.site//files/ditto_slides.pdf">Slides</a></strong>]
+	[<strong><a href="https://dl.acm.org/doi/abs/10.1145/3603269.3604816">PDF</a></strong>] [<strong><a href="https://zilizhang.site//files/ditto_slides.pdf">Slides</a></strong>]
 		</p >
 	</div>
 </div>
