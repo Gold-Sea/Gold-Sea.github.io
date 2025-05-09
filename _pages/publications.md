@@ -11,26 +11,6 @@ author_profile: true
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
-			<strong>DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models</strong>
-			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Ranchen Ming, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Xin Jin<br/>
-			<em>In Preprint</em>.<br/>
-	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
-		</p >
-	</div>
-</div>
-<div class="media">
-	<div class="media-body">
-		<p class="media-heading">
-			<strong>RLHFuse: Efficient RLHF Training for Large Language Models with Inter- and Intra-Stage Fusion</strong>
-			<br/>Yinmin Zhong, <strong>Zili Zhang</strong>, Bingyang Wu, Shengyu Liu, Yukun Chen, Changyi Wan, Hanpeng Hu, Lei Xia, Ranchen Ming, Yibo Zhu, Xin Jin<br/>
-			<em>In Preprint</em>.<br/>
-	[<strong><a href="https://www.arxiv.org/pdf/2409.13221">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
-		</p >
-	</div>
-</div>
-<div class="media">
-	<div class="media-body">
-		<p class="media-heading">
 			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
 			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
 			<em>In Preprint</em>.<br/>
@@ -52,9 +32,29 @@ author_profile: true
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
+			<strong>DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models</strong>
+			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Ranchen Ming, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Xin Jin<br/>
+			<em>SIGCOMM'25</em> (To appear).<br/>
+	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>RLHFuse: Efficient RLHF Training for Large Language Models with Inter- and Intra-Stage Fusion</strong>
+			<br/>Yinmin Zhong, <strong>Zili Zhang</strong>, Bingyang Wu, Shengyu Liu, Yukun Chen, Changyi Wan, Hanpeng Hu, Lei Xia, Ranchen Ming, Yibo Zhu, Xin Jin<br/>
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi25">NSDI 2025</a></strong>)</em>, Philadelphia, April 28–30, 2025.<br/>
+	[<strong><a href="https://www.arxiv.org/pdf/2409.13221">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
 			<strong>dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving</strong>
 			<br/>Bingyang Wu, Ruidong Zhu, <strong>Zili Zhang</strong>, Peng Sun, Xuanzhe Liu, Xin Jin<br/>
-			<em>USENIX Symposium on Operating Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/osdi24">OSDI 2024</a></strong>)</em>, Santa Clara, July 10–12, 2024 (To appear).<br/>
+			<em>USENIX Symposium on Operating Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/osdi24">OSDI 2024</a></strong>)</em>, Santa Clara, July 10–12, 2024.<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
@@ -64,7 +64,7 @@ author_profile: true
 		<p class="media-heading">
 			<strong>Jolteon: Unleashing the Promise of Serverless for Serverless Workflows</strong>
 			<br/><strong>Zili Zhang</strong>, Chao Jin, Xin Jin<br/>
-			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024 (To appear).<br/>
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024.<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
@@ -74,7 +74,7 @@ author_profile: true
 		<p class="media-heading">
 			<strong>Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining</strong>
 			<br/><strong>Zili Zhang</strong>, Fangyue Liu, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
-			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024 (To appear).<br/>
+			<em>USENIX Symposium on Networked Systems Design and Implementation (<strong><a href="https://www.usenix.org/conference/nsdi24">NSDI 2024</a></strong>)</em>, Santa Clara, April 16–18, 2024.<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
