@@ -11,6 +11,16 @@ author_profile: true
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
+			<strong>StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation</strong>
+			<br/>Yinmin Zhong,  <strong>Zili Zhang</strong>, Xiaoniu Song, Hanpeng Hu, Chao Jin, Bingyang Wu, Nuo Chen, Yukun Chen, Yu Zhou, Changyi Wan, Hongyu Zhou, Yimin Jiang, Yibo Zhu, Daxin Jiang<br/>
+			<em>In Preprint</em>.<br/>
+	[<strong><a href="https://arxiv.org/abs/2504.15930">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
 			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
 			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
 			<em>In Preprint</em>.<br/>
