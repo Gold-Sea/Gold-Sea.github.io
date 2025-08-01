@@ -34,7 +34,7 @@ author_profile: true
 			<strong>Fast Distributed Inference Serving for Large Language Models</strong>
 			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
 			(<sup>*</sup> Equal contribution)<br/>
-			<em>In Preprint</em>.<br/>
+			<em>NSDI'26</em> (To appear).<br/>
 	[<strong><a href="">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
