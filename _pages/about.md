@@ -56,7 +56,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 	<div class="media-body">
 		<p class="media-heading">
 			<strong>DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models</strong>
-			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Ranchen Ming, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Xin Jin<br/>
+			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Yimin Jiang, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Daxin Jiang, Xin Jin<br/>
 			<em>SIGCOMM'25</em> (To appear).<br/>
 	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
