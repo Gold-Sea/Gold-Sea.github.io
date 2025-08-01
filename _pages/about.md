@@ -158,11 +158,11 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 <h3>
 <strong><font size="5">Internship</font></strong>
 </h3>
-* [2025.04 - Present] **ByteDance Seed**, Researcher of Multimodal LLM + RL.
-* [2024.04 - 2025.04] **StepFun**, Researcher of LLM Training Infra.
-* [2023.06 - 2024.04] **Alibaba**, Researcher of Serverless GPU.
-* [2021.10 - 2023.02] **MOQI**, Advised by [Linpeng Tang](https://chtlp.github.io/) and [Xinhui Tian](https://dblp.org/pid/124/3447.html), Researcher of Vector Search Engine.
-* [2021.06 - 2021.09] **ByteDance AML**, Advised by [Leyuan Wang](https://github.com/Laurawly), Researcher of Deep Learning Compiler.
+* [2025.04 - Present] **ByteDance Seed**, Research Intern of Multimodal LLM + RL.
+* [2024.04 - 2025.04] **StepFun**, Research Intern of LLM Training Infra.
+* [2023.06 - 2024.04] **Alibaba**, Research Intern of Serverless GPU.
+* [2021.10 - 2023.02] **MOQI**, Research Intern of Vector Database and RAG.
+* [2021.06 - 2021.09] **ByteDance AML**, Engineer Intern of Deep Learning Compiler (TVM).
 
 <h3>
 <strong><font size="5">Interests</font></strong>
