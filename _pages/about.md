@@ -45,7 +45,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 	<div class="media-body">
 		<p class="media-heading">
 			<strong>Fast Distributed Inference Serving for Large Language Models</strong>
-			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
+			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Shengyu Liu, Fangyue Liu, Yuanhang Sun, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
 			(<sup>*</sup> Equal contribution)<br/>
 			<em>NSDI'26</em> (To appear).<br/>
 	[<strong><a href="https://arxiv.org/abs/2305.05920">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
