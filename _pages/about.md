@@ -25,7 +25,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) and Prof. [Xuanzhe Liu](http://www.li
 	<div class="media-body">
 		<p class="media-heading">
 			<strong>TokenLake: A Unified Segment-level Prefix Cache Pool for Fine-grained Elastic Long-Context LLM Serving</strong>
-			<br/>Bingyang Wu,  <strong>Zili Zhang</strong>, Yinmin Zhong, Guanzhe Huang, Chao Jin, Yibo Zhu, Xuanzhe Liu, Xin Jin<br/>
+			<br/>Bingyang Wu,  <strong>Zili Zhang</strong>, Yinmin Zhong, Guanzhe Huang, Yibo Zhu, Xuanzhe Liu, Xin Jin<br/>
 			<em>In Preprint</em>.<br/>
 	[<strong><a href="https://arxiv.org/abs/2508.17219v1">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
