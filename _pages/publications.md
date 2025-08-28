@@ -11,6 +11,16 @@ author_profile: true
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
+			<strong>TokenLake: A Unified Segment-level Prefix Cache Pool for Fine-grained Elastic Long-Context LLM Serving</strong>
+			<br/>Bingyang Wu,  <strong>Zili Zhang</strong>, Yinmin Zhong, Guanzhe Huang, Chao Jin, Yibo Zhu, Xuanzhe Liu, Xin Jin<br/>
+			<em>In Preprint</em>.<br/>
+	[<strong><a href="https://arxiv.org/abs/2508.17219v1">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
 			<strong>StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation</strong>
 			<br/>Yinmin Zhong,  <strong>Zili Zhang</strong>, Xiaoniu Song, Hanpeng Hu, Chao Jin, Bingyang Wu, Nuo Chen, Yukun Chen, Yu Zhou, Changyi Wan, Hongyu Zhou, Yimin Jiang, Yibo Zhu, Daxin Jiang<br/>
 			<em>In Preprint</em>.<br/>
@@ -23,7 +33,7 @@ author_profile: true
 		<p class="media-heading">
 			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
 			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
-			<em>In Preprint</em>.<br/>
+			<em>TOCS'25</em> (To appear).<br/>
 	[<strong><a href="https://arxiv.org/abs/2404.12457">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
