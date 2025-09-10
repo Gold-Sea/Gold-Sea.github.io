@@ -67,8 +67,8 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 		<p class="media-heading">
 			<strong>DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models</strong>
 			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Yimin Jiang, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Daxin Jiang, Xin Jin<br/>
-			<em>SIGCOMM'25</em> (To appear).<br/>
-	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+			<em>ACM Special Interest Group on Data Communication (<strong><a href="https://conferences.sigcomm.org/sigcomm/2025/">SIGCOMM 2025</a></strong>)</em>, Coimbra, September 8-11, 2025.<br/>
+	[<strong><a href="https://dl.acm.org/doi/10.1145/3718958.3750472">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
 </div>
@@ -168,7 +168,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 <h3>
 <strong><font size="5">Internship</font></strong>
 </h3>
-* [2025.04 - Present] **ByteDance Seed**, TopSeed Intern of Multimodal LLM + RL.
+* [2025.04 - 2025.09] **ByteDance Seed**, TopSeed Intern of Multimodal LLM + RL.
 * [2024.04 - 2025.04] **StepFun**, Research Intern of LLM Training Infra.
 * [2023.06 - 2024.04] **Alibaba**, Research Intern of Serverless GPU.
 * [2021.10 - 2023.02] **MOQI**, Research Intern of Vector Database and RAG.
