@@ -55,7 +55,7 @@ author_profile: true
 			<strong>DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models</strong>
 			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Yimin Jiang, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Daxin Jiang, Xin Jin<br/>
 			<em>SIGCOMM'25</em> (To appear).<br/>
-	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="https://zilizhang.site//files/disttrain-sigcomm.pdf">Slides</a></strong>]
 		</p >
 	</div>
 </div>
