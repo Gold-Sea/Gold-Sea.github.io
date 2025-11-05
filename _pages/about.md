@@ -68,7 +68,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 			<strong>DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models</strong>
 			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Yimin Jiang, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Daxin Jiang, Xin Jin<br/>
 			<em>ACM Special Interest Group on Data Communication (<strong><a href="https://conferences.sigcomm.org/sigcomm/2025/">SIGCOMM 2025</a></strong>)</em>, Coimbra, September 8-11, 2025.<br/>
-	[<strong><a href="https://dl.acm.org/doi/10.1145/3718958.3750472">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
+	[<strong><a href="https://dl.acm.org/doi/10.1145/3718958.3750472">PDF</a></strong>] [<strong><a href="https://zilizhang.site//files/disttrain-sigcomm.pdf">Slides</a></strong>]
 		</p >
 	</div>
 </div>
