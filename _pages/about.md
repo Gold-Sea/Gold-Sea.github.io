@@ -46,7 +46,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 		<p class="media-heading">
 			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
 			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
-			<em>TOCS'25</em> (To appear).<br/>
+			<em>TOCS'25.</em><br/>
 	[<strong><a href="https://arxiv.org/abs/2404.12457">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
@@ -57,7 +57,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 			<strong>Fast Distributed Inference Serving for Large Language Models</strong>
 			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Shengyu Liu, Fangyue Liu, Yuanhang Sun, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
 			(<sup>*</sup> Equal contribution)<br/>
-			<em>NSDI'26</em> (To appear).<br/>
+			<em>NSDI'26.</em><br/>
 	[<strong><a href="https://arxiv.org/abs/2305.05920">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
