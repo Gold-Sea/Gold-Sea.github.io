@@ -31,16 +31,6 @@ author_profile: true
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
-			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
-			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
-			<em>TOCS'25.</em><br/>
-	[<strong><a href="https://arxiv.org/abs/2404.12457">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
-		</p >
-	</div>
-</div>
-<div class="media">
-	<div class="media-body">
-		<p class="media-heading">
 			<strong>Fast Distributed Inference Serving for Large Language Models</strong>
 			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Shengyu Liu, Fangyue Liu, Yuanhang Sun, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
 			(<sup>*</sup> Equal contribution)<br/>
@@ -56,6 +46,16 @@ author_profile: true
 			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Yimin Jiang, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Daxin Jiang, Xin Jin<br/>
 			<em>SIGCOMM'25.</em><br/>
 	[<strong><a href="https://arxiv.org/abs/2408.04275">PDF</a></strong>] [<strong><a href="https://zilizhang.site//files/disttrain-sigcomm.pdf">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
+			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
+			<em>TOCS'25.</em><br/>
+	[<strong><a href="https://arxiv.org/abs/2404.12457">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
 </div>

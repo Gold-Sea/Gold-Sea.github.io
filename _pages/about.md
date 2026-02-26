@@ -44,16 +44,6 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 <div class="media">
 	<div class="media-body">
 		<p class="media-heading">
-			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
-			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
-			<em>TOCS'25.</em><br/>
-	[<strong><a href="https://arxiv.org/abs/2404.12457">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
-		</p >
-	</div>
-</div>
-<div class="media">
-	<div class="media-body">
-		<p class="media-heading">
 			<strong>Fast Distributed Inference Serving for Large Language Models</strong>
 			<br/>Bingyang Wu<sup>*</sup>, Yinmin Zhong<sup>*</sup>, <strong>Zili Zhang<sup>*</sup></strong>, Shengyu Liu, Fangyue Liu, Yuanhang Sun, Gang Huang, Xuanzhe Liu, Xin Jin<br/>
 			(<sup>*</sup> Equal contribution)<br/>
@@ -69,6 +59,16 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 			<br/><strong>Zili Zhang</strong>, Yinmin Zhong, Yimin Jiang, Hanpeng Hu, Jianjian Sun, Zheng Ge, Yibo Zhu, Daxin Jiang, Xin Jin<br/>
 			<em>ACM Special Interest Group on Data Communication (<strong><a href="https://conferences.sigcomm.org/sigcomm/2025/">SIGCOMM 2025</a></strong>)</em>, Coimbra, September 8-11, 2025.<br/>
 	[<strong><a href="https://dl.acm.org/doi/10.1145/3718958.3750472">PDF</a></strong>] [<strong><a href="https://zilizhang.site//files/disttrain-sigcomm.pdf">Slides</a></strong>]
+		</p >
+	</div>
+</div>
+<div class="media">
+	<div class="media-body">
+		<p class="media-heading">
+			<strong>RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation</strong>
+			<br/>Chao Jin, <strong>Zili Zhang</strong>, Xuanlin Jiang, Fangyue Liu, Xin Liu, Xuanzhe Liu, Xin Jin<br/>
+			<em>TOCS'25.</em><br/>
+	[<strong><a href="https://arxiv.org/abs/2404.12457">PDF</a></strong>] [<strong><a href="">Slides</a></strong>]
 		</p >
 	</div>
 </div>
@@ -168,6 +168,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 <h3>
 <strong><font size="5">Internship</font></strong>
 </h3>
+* [2025.10 - Present] **RedNote**, RedStar Intern of Infrastructure for Multimodal LLM + RL.
 * [2025.04 - 2025.09] **ByteDance Seed**, TopSeed Intern of Multimodal LLM + RL.
 * [2024.04 - 2025.04] **StepFun**, Research Intern of LLM Training Infra.
 * [2023.06 - 2024.04] **Alibaba**, Research Intern of Serverless GPU.
