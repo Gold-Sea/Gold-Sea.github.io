@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a third-year Ph.D. student majoring in Computer Science at [**Computer Systems Research Group**](https://github.com/pkusys), **Peking University** (2023-Present). I am advised by Prof. [Xin Jin](https://xinjin.github.io/).
+I am now a third-year Ph.D. candidate majoring in Computer Science at [**Computer Systems Research Group**](https://github.com/pkusys), **Peking University** (2023-Present). I am advised by Prof. [Xin Jin](https://xinjin.github.io/).
 My research interests focus on Machine Learning (LLM) System, Vector Database, and Cloud Computing, with a keen interest in their application to enhance AI technologies in unison. 
 
 I received my B.E. from the **School of Electronics Engineering and Computer Science (EECS), Peking University**
