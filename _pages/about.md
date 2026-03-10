@@ -156,6 +156,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 <h3>
 <strong><font size="5">Service</font></strong>
 </h3>
+* [2026] TMC (Invited Reviewer)
 * [2025] Eurosys (Shadow PC)
 
 <h3>
