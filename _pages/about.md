@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am now a third-year Ph.D. candidate majoring in Computer Science at [**Computer Systems Research Group**](https://github.com/pkusys), **Peking University** (2023-Present). I am advised by Prof. [Xin Jin](https://xinjin.github.io/).
-My research interests focus on Machine Learning (LLM) System, Vector Database, and Cloud Computing, with a keen interest in their application to enhance AI technologies in unison. 
+My research and engineering work focus on systems for Multimodal LLM (MLLM) pretraining and reinforcement learning.
 
 I received my B.E. from the **School of Electronics Engineering and Computer Science (EECS), Peking University**
 (2019-2023). I used to be a research assistant at **Software Engineering Institute** advised by
@@ -171,7 +171,7 @@ Prof. [Xin Jin](https://xinjin.github.io/) (2020-2023).
 </h3>
 * [2025.10 - Present] **RedNote**, RedStar Intern of Infrastructure for Multimodal LLM + RL.
 * [2025.04 - 2025.09] **ByteDance Seed**, TopSeed Intern of Multimodal LLM + RL.
-* [2024.04 - 2025.04] **StepFun**, Research Intern of LLM Training Infra.
+* [2024.04 - 2025.04] **StepFun**, Research Intern of Multimodal LLM Training Infra.
 * [2023.06 - 2024.04] **Alibaba**, Research Intern of Serverless GPU.
 * [2021.10 - 2023.02] **MOQI**, Research Intern of Vector Database and RAG.
 * [2021.06 - 2021.09] **ByteDance AML**, Engineer Intern of Deep Learning Compiler (TVM).
