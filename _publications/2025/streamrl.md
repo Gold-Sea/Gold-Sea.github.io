@@ -1,7 +1,7 @@
 ---
 title:          "StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation"
 date:           2025-05-1 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "In preprint"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

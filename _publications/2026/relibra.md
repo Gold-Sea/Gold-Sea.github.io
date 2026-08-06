@@ -1,7 +1,7 @@
 ---
 title:          "ReLibra: Routing-Replay-Guided Load Balancing for MoE Training in Reinforcement Learning"
 date:           2026-06-1 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "In preprint"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

@@ -1,7 +1,7 @@
 ---
 title:          "UltraEP: Unleash MoE Training and Inference on Rack-Scale Nodes with Near-Optimal Load Balancing"
 date:           2026-07-1 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "In preprint"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

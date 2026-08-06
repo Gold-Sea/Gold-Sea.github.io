@@ -1,11 +1,8 @@
 ---
 title:          "DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models"
-date:           2025-10-15 00:01:00 +0800
-selected:       false
+date:           2025-09-08 00:01:00 +0800
+selected:       true
 pub:            "ACM Special Interest Group on Data Communication (SIGCOMM)"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
 abstract: >-
@@ -15,14 +12,15 @@ cover:    /assets/images/covers/disttrain.png
 authors:
   - Zili Zhang
   - Yinmin Zhong
-  - Ranchen Ming
+  - Yimin Jiang
   - Hanpeng Hu
   - Jianjian Sun
   - Zheng Ge
   - Yibo Zhu
+  - Daxin Jiang
   - Xin Jin
 
 links:
-  Paper: https://arxiv.org/pdf/2408.04275
-  Slides: https://zilizhang.site//files/disttrain-sigcomm.pdf
+  Paper: https://dl.acm.org/doi/10.1145/3718958.3750472
+  Slides: /files/disttrain-sigcomm.pdf
 ---

@@ -1,7 +1,7 @@
 ---
 title:          "FastServe: Iteration-Level Preemptive Scheduling for Large Language Model Inference"
 date:           2026-05-04 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Networking Systems Design and Implementation (NSDI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -17,6 +17,9 @@ authors:
   - Bingyang Wu*
   - Yinmin Zhong*
   - Zili Zhang*
+  - Shengyu Liu
+  - Fangyue Liu
+  - Yuanhang Sun
   - Gang Huang
   - Xuanzhe Liu
   - Xin Jin
