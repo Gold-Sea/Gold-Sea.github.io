@@ -48,15 +48,29 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
+          CURRENT_SHA: ${{ github.sha }}
         run: |
+          # 必须跳过本次运行自己的 sha:deploy job 启动时 GitHub 就已为它创建部署记录,
+          # 取消它会把马上要创建的新部署一起干掉("Deployment cancelled")
+          cancelled=0
           for sha in $(curl -sf -H "Authorization: Bearer $GH_TOKEN" \
               "https://api.github.com/repos/$REPO/deployments?environment=github-pages&per_page=10" \
               | jq -r '.[].sha' | sort -u); do
+            if [ "$sha" = "$CURRENT_SHA" ]; then
+              echo "skip $sha (本次运行自己)"
+              continue
+            fi
             code=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
               -H "Authorization: Bearer $GH_TOKEN" \
               "https://api.github.com/repos/$REPO/pages/deployments/$sha/cancel")
             echo "cancel $sha -> HTTP $code (404/409/422 表示该 sha 没有卡住的部署,属正常)"
+            [ "$code" = "200" ] && cancelled=1
           done
+          # 取消是异步生效的;若真取消了东西,等后端落定,避免波及紧接着创建的新部署
+          if [ "$cancelled" = "1" ]; then
+            echo "waiting 20s for cancellation to settle..."
+            sleep 20
+          fi
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
