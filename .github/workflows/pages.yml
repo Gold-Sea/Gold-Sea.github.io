@@ -42,3 +42,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Pages 发布后端对本仓库偶发拥塞:成功一次也要 3~4 分钟,默认 10 分钟会超时放弃
+          timeout: 1200000
