@@ -1,41 +1,40 @@
-primary_name: "Yinmin Zhong"
+primary_name: "Zili Zhang"
 secondary_name: ""
-navbar_name: "Yinmin Zhong"
+navbar_name: "Zili Zhang"
 
 positions:
   - logo: /assets/images/badges/PKU_red.png
     name: PhD student @ Peking University
-  # - logo: /assets/images/badges/deepseek.png
-  #   name: Intern @ DeepSeek
 
-email: "zhongyinmin@pku.edu.cn"
-cv_link: /assets/cv/resume.pdf
-gscholar: UUM_zLwAAAAJ # Google Scholar ID
-github: PKUFlyingPig
-twitter: YinminZhong # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-orcid: 0000-0002-2504-7652
+email: "zzlcs@pku.edu.cn"
+cv_link: /files/zzl-cv.pdf
+gscholar: 310QUvQAAAAJ # Google Scholar ID
+github: Gold-Sea
+orcid: 0000-0003-4209-9451
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a final-year Ph.D. candidate in the Department of Computer Science at Peking University. I conduct research in the <a href=https://github.com/pkusys target="_blank" rel="noopener noreferrer"> Computer Systems Research Group </a>, co-advised by <a href=https://xinjin.github.io target="_blank" rel="noopener noreferrer"> Prof. Xin Jin</a> and <a href=http://www.liuxuanzhe.com target="_blank" rel="noopener noreferrer"> Prof. Xuanzhe Liu</a>. 
-    Prior to that, I received my B.S. in Computer Science, also from Peking University.
+    I am a fourth-year Ph.D. candidate majoring in Computer Science at the
+    <a href="https://github.com/pkusys" target="_blank" rel="noopener noreferrer">Computer Systems Research Group</a>,
+    Peking University (2023 - present), advised by
+    <a href="https://xinjin.github.io/" target="_blank" rel="noopener noreferrer">Prof. Xin Jin</a>.
+    My research and engineering work focus on systems for Multimodal LLM (MLLM) pretraining and reinforcement learning.
   </p>
   <p>
-    My research interests lie broadly in designing efficient systems for training and serving deep learning models, with a current focus on large language models (LLMs).
+    I received my B.E. from the School of Electronics Engineering and Computer Science (EECS), Peking University (2019 - 2023).
+    I used to be a research assistant at the Software Engineering Institute advised by Prof. Xin Jin (2020 - 2023).
   </p>
   <p>
-    Outside of my academic work, I'm a passionate self-learner with a strong curiosity for various areas across computer science. I created a website called 
-    <a href=https://csdiy.wiki target="_blank" rel="noopener noreferrer"> csdiy </a> to share my self-learning experiences and curated resources with the broader community.
+    Outside of research, I am an amateur runner — here are my
+    <a href="https://www.itra.run/RunnerSpace/ZHANG.Zili/4938114" target="_blank" rel="noopener noreferrer">ITRA profile</a> and
+    <a href="/running_page/">Running Page</a>. I love outdoor traveling, hiking, skiing, and camping — I believe that only by
+    immersing myself in nature can I find inner peace. I also enjoy video games for their immersive storytelling.
   </p>
 
 portrait_url: /assets/images/photos/avatar.jpg
 portrait_caption: >-
-  Photo by Zaizuo Gong at The Grand Canyon
+  Get Lost In Nature
 
 education:
   - name: Peking University
@@ -43,42 +42,70 @@ education:
     position: >-
       School of Computer Science <br/>
       Ph.D. Student
-    date: Sep. 2022 - present
+    date: Sep. 2023 - present
   - name: Peking University
     logo: /assets/images/badges/PKU_red.png
-    position: B.S. in Computer Science
-    date: Sep. 2018 - Jul. 2022
+    position: B.E. in Computer Science (School of EECS)
+    date: Sep. 2019 - Jul. 2023
 
 experience:
-  - name: DeepSeek RL Infra Team
-    logo: /assets/images/badges/deepseek.png
-    position: Core System R&D Engineer
-    date: Apr. 2025 - present
-  - name: StepFun System Team
-    logo: /assets/images/badges/stepfun.png
-    position: Research Intern
-    date: June 2024 - Apr. 2025
+  - name: RedNote
+    logo: /assets/images/badges/rednote.png
+    position: RedStar Intern, Infrastructure for Multimodal LLM + RL
+    date: Sep. 2025 - Jun. 2026
   - name: ByteDance Seed
     logo: /assets/images/badges/bytedance.png
-    position: Research Intern
-    date: Aug. 2023 - May 2024
-  - name: Sky Lab, UC Berkeley
-    logo: /assets/images/badges/berkeley.webp
-    position: Research Intern (remote)
-    date: May 2022 - Feb. 2023
-  - name: Alibaba DAMO Academy
-    logo: /assets/images/badges/alibaba.png
-    position: Research Intern
-    date: Sep. 2021 - Apr. 2022
-  - name: AI Innovation Center, Peking University
-    logo: /assets/images/badges/PKU_red.png
-    position: Software Engineer Intern
-    date: Sep. 2020 - Mar. 2021
+    position: TopSeed Intern, Multimodal LLM + RL
+    date: Apr. 2025 - Sep. 2025
+  - name: StepFun
+    logo: /assets/images/badges/stepfun.png
+    position: Research Intern, Infrastructure for Multimodal LLM Training
+    date: Apr. 2024 - Apr. 2025
 
-# awards:
-# - name: Award Name 2
-#   date: 2024
-# - name: Award Name 1
-#   date: 2021
-# - name: A quick brown fox jumps over the lazy dog and runs away award
-#   date: 2021
+awards:
+  - name: NSFC Basic Research Program for Young Students (Principal Investigator)
+    date: 2025
+  - name: Top 10 Academic Stars, School of Computer Science, PKU (10/800)
+    date: 2025
+  - name: Merit Student (1/56)
+    date: 2024
+  - name: National Scholarship (Top 0.4% nationally)
+    date: 2024
+  - name: Presidential Scholarship of Peking University
+    date: 2024
+  - name: Top 10 Bachelor Thesis, School of EECS, PKU (10/408)
+    date: 2023
+  - name: Outstanding Graduation Thesis, Peking University (33/4239)
+    date: 2023
+  - name: Outstanding Graduation Thesis, Beijing City
+    date: 2023
+  - name: Excellent Graduate, Peking University (613/4239)
+    date: 2023
+  - name: Representor of Excellent Graduates, Peking University (14/4239)
+    date: 2023
+  - name: Exceptional Award for Academic Innovation, PKU (5/408)
+    date: 2022
+  - name: Award for Scientific Research, PKU
+    date: 2022
+  - name: Lee Wai Wing Scholarship, PKU
+    date: 2022
+  - name: Award for Scientific Research, PKU
+    date: 2021
+  - name: Award for Academic Excellents, PKU
+    date: 2020
+  - name: The Third Prize of Peking University Scholarship
+    date: 2020
+
+teaching:
+  - name: Teaching Assistant, Operating System (Honor Track), PKU
+    date: 2024 Spring
+  - name: Teaching Assistant, Introduction to Computer System (Honor Track), PKU
+    date: 2022 Fall
+  - name: Teaching Assistant, Introduction to Computer System, PKU
+    date: 2021 Fall
+
+service:
+  - name: IEEE TMC, Invited Reviewer
+    date: 2026
+  - name: EuroSys, Shadow PC
+    date: 2025
