@@ -49,17 +49,17 @@ education:
     date: Sep. 2019 - Jul. 2023
 
 experience:
-  - name: RedNote
+  - name: RedNote Infra Team
     logo: /assets/images/badges/rednote.png
-    position: RedStar Intern, Infrastructure for Multimodal LLM + RL
+    position: RedStar Intern, Infra for Multimodal LLM + RL
     date: Sep. 2025 - Jun. 2026
-  - name: ByteDance Seed
+  - name: ByteDance Seed Multimodal Tream
     logo: /assets/images/badges/bytedance.png
-    position: TopSeed Intern, Multimodal LLM + RL
+    position: TopSeed Intern, Data and Algorithm for MLLM + RL
     date: Apr. 2025 - Sep. 2025
-  - name: StepFun
+  - name: StepFun Infra Tream
     logo: /assets/images/badges/stepfun.png
-    position: Research Intern, Infrastructure for Multimodal LLM Training
+    position: Research Intern, Infra for LLM Training + RLHF
     date: Apr. 2024 - Apr. 2025
 
 awards:
