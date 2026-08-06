@@ -1,6 +1,6 @@
 ---
 title:          "BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training"
-date:           2026-05-26 00:01:00 +0800
+date:           2026-08-06 00:01:00 +0800
 selected:       true
 pub:            "In preprint"
 pub_date:       "2026"
