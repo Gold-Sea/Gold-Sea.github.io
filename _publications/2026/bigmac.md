@@ -8,6 +8,7 @@ pub_date:       "2026"
 abstract: >-
     This work presents BigMac, a new training pipeline for multimodal LLMs that breaks the Pareto frontier between compute and memory efficiency. The core idea of BigMac is to elegantly nest the encoder and generator computation into the original LLM pipeline, forming a dependency-safe nested pipeline structure that reduces activation memory complexity while preserving compute efficiency.
 
+cover:    /assets/images/covers/bigmac.png
 authors:
   - Zili Zhang
   - Chengxu Yang

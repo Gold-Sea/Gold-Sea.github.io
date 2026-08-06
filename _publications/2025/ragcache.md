@@ -8,6 +8,7 @@ pub_date:       "2025"
 abstract: >-
     This work proposes RAGCache, a novel multilevel dynamic caching system tailored for Retrieval-Augmented Generation (RAG). RAGCache caches the intermediate states of injected external knowledge and shares them across multiple queries, mitigating the high computation and memory costs caused by long-sequence generation in RAG.
 
+cover:    /assets/images/covers/ragcache.png
 authors:
   - Chao Jin
   - Zili Zhang

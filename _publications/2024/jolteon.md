@@ -8,6 +8,7 @@ pub_date:       "2024"
 abstract: >-
     This paper proposes Jolteon, an orchestrator to unleash the promise of automatic resource provisioning for serverless workflows. At the core of Jolteon is a stochastic performance model that combines the benefits of whitebox modeling to capture the execution characteristics of serverless computing and blackbox modeling to accommodate the inherent performance variability.
 
+cover:    /assets/images/covers/jolteon.png
 authors:
   - Zili Zhang
   - Chao Jin
